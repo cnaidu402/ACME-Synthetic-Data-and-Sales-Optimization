@@ -1,6 +1,6 @@
 # ACME-Synthetic-Data-and-Sales-Optimization Alogrithm
 The algorithm is free to use. Please give me credits 
-# ACME Synthetic Data and Sales Optimization Algorithm
+
 
 ## Overview
 This project generates a synthetic dataset and implements optimization algorithms for sales and margin maximization within the ACME company structure. The hierarchical levels include Portfolio, Geography, Category, Brand, and Segment, with constraints applied at different levels.
