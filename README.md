@@ -20,8 +20,8 @@ This project generates a synthetic dataset and implements optimization algorithm
 Clone the repository and install required dependencies:
 ```bash
 # Clone repository
-git clone https://github.com/cnaidu402/acme-sales-optimizer.git
-cd acme-sales-optimizer
+git clone https://github.com/cnaidu402/ACME-Synthetic-Data-and-Sales-Optimization.git
+cd ACME-Synthetic-Data-and-Sales-Optimization
 
 # Install dependencies
 pip install pandas numpy matplotlib
