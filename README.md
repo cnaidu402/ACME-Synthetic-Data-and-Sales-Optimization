@@ -20,7 +20,7 @@ This project generates a synthetic dataset and implements optimization algorithm
 Clone the repository and install required dependencies:
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/acme-sales-optimizer.git
+git clone https://github.com/cnaidu402/acme-sales-optimizer.git
 cd acme-sales-optimizer
 
 # Install dependencies
